@@ -1,2 +1,2 @@
-# java-projects
-some java files that I made to learn
+# java-exercises
+some java files that I made to solve Exercism problems
